@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw datasets (keep processed versions)
+data/raw/
+data/external/
+
+# Model artifacts (keep final top-3 only if desired)
+models/*.pkl
+
+# Logs
+*.log

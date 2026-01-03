@@ -1,0 +1,12 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-score (Macro),ROC-AUC
+Extra Trees,0.913,0.884,0.884,0.884,0.979
+Gradient Boosting,0.913,0.884,0.883,0.884,0.979
+Random Forest,0.912,0.883,0.881,0.882,0.978
+Logistic Regression,0.899,0.865,0.869,0.867,0.972
+Gaussian Process,0.892,0.857,0.856,0.857,0.972
+Adaboost,0.899,0.866,0.866,0.865,0.956
+K Nearest Neighbors,0.615,0.539,0.552,0.543,0.747
+Naive Bayes,0.319,0.451,0.396,0.262,0.716
+Svm Rbf,0.24,0.08,0.333,0.129,0.704
+Mlp Neural Network,0.514,0.451,0.49,0.43,0.673
+Ridge Classifier,0.871,0.832,0.832,0.829,
